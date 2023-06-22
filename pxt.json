@@ -2,8 +2,7 @@
     "name": "dummy",
     "description": "",
     "dependencies": {
-        "device": "*",
-        "nerdle": "github:meeeeeeeep1/nerdle#8e43ac1b50c71f69f11ccfd3d55bc0d9437261ca"
+        "device": "*"
     },
     "files": [
         "main.blocks",
