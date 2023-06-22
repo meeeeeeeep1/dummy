@@ -1,0 +1,25 @@
+{
+    "name": "dummy",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "nerdle": "github:meeeeeeeep1/nerdle#8e43ac1b50c71f69f11ccfd3d55bc0d9437261ca"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.30",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
