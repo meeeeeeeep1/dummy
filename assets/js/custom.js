@@ -10,6 +10,7 @@
  * To register a constrol simmessages, use addSimMessageHandler
  */
 // Create a new button element
+console.log("working!!!")
 var button = document.createElement("button");
 button.innerHTML = "Click Me";
 
