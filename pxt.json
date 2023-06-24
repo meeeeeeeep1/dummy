@@ -8,7 +8,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "d.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -20,6 +21,6 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj",
+    "preferredEditor": "blocksprj",
     "disableTargetTemplateFiles": true
 }
